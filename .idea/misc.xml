@@ -56,6 +56,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+<<<<<<< HEAD
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -72,4 +73,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> c032951729db0fa41ad9ccb14646387d0564f956
 </project>
